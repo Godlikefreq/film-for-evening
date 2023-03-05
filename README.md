@@ -7,7 +7,7 @@ If you do not know what film to watch this evening, this application will you to
 1. Required Ruby (v. 3.1.2) installed on your PC.
 2. Clone application to local PC:
 ```
-git@github.com:Godlikefreq/film-for-evening.git
+git clone git@github.com:Godlikefreq/film-for-evening.git
 ```
 4. Open app's folder through command console.
 5. Run
