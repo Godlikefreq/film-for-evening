@@ -2,6 +2,6 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
-
 gem "addressable", "~> 2.8"
+gem "nokogiri", "~> 1.14"
+gem "open-uri", "~> 0.3.0"
