@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
+    public_suffix (5.0.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  addressable (~> 2.8)
+
+BUNDLED WITH
+   2.4.3
