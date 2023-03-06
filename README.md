@@ -1,5 +1,5 @@
 # Description
-If you do not know what film to watch this evening, this application will you to find out!
+If you do not know what film to watch this evening, this application will help you to find out!
 
 **[Wiki Page with full films-list](https://ru.wikipedia.org/wiki/250_лучших_фильмов_по_версии_IMDb)**
 
